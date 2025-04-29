@@ -9,3 +9,15 @@ Written by
 gabman15
 and
 jasper2016
+
+Instructions
+
+compile with make
+
+run ./a.out to check arguments
+
+put your video file in video_player as
+
+video_player/video
+
+no extension!
